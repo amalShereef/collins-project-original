@@ -1,0 +1,133 @@
+body {
+  margin: 0;
+  font-weight: 600px;
+}
+.type-stories {
+  background-color: orange;
+  text-align: center;
+  scale: bold;
+  font-size: 27px;
+  font-weight: 500;
+  height: 48px;
+}
+.img-monster {
+  margin-left: 49px;
+  padding-top: 5px;
+  width: 250px;
+  float: down;
+  border: solid 5px;
+  border-color: black;
+  margin-top: 20px;
+}
+.link-monster {
+  padding-top: 20px;
+  padding-left: 64px;
+  font-size: 20px;
+}
+.img-guardians {
+  margin-left: 354px;
+  padding-top: 4px;
+  width: 270px;
+  float: down;
+  border: solid 5px;
+  border-color: black;
+  margin-top: -460px;
+}
+.link-guardians {
+  padding-top: -98px;
+  padding-left: 369px;
+  font-size: 20px;
+  margin-top: -53px;
+}
+.img-artocias {
+  margin-left: 685px;
+  padding-top: 2px;
+  width: 355px;
+  float: down;
+  border: solid 5px;
+  border-color: black;
+  margin-top: -494px;
+}
+
+.link-artocias {
+  padding-top: -98px;
+  padding-left: 716px;
+  font-size: 23px;
+  margin-top: -98px;
+}
+.img-gemma {
+  margin-left: 1117px;
+  padding-top: 1px;
+  width: 258px;
+  float: down;
+  border: solid 5px;
+  border-color: black;
+  margin-top: -359px;
+}
+
+.link-gemma {
+  padding-top: -98px;
+  padding-left: 1143px;
+  font-size: 20px;
+  margin-top: -3px;
+}
+.img-hippo {
+  margin-left: 56px;
+  padding-top: 1px;
+  width: 312px;
+  float: down;
+  border: solid 5px;
+  border-color: black;
+  margin-top: 18px;
+}
+
+.link-hippo {
+  padding-left: 95px;
+  font-size: 22px;
+  margin-top: 13px;
+}
+.img-mckay {
+  margin-left: 391px;
+  padding-top: 1px;
+  width: 247px;
+  float: down;
+  border: solid 5px;
+  border-color: black;
+  margin-top: -275px;
+}
+
+.link-mckay {
+  padding-left: 405px;
+  font-size: 19px;
+  margin-top: 2px;
+}
+.img-fish {
+  margin-left: 675px;
+  padding-top: 1px;
+  width: 370px;
+  float: down;
+  border: solid 5px;
+  border-color: black;
+  margin-top: -374px;
+}
+
+.link-fish {
+  padding-left: 732px;
+  font-size: 25px;
+  margin-top: -45px;
+}
+.img-were {
+  margin-left: 1099px;
+  padding-top: 1px;
+  width: 356px;
+  float: down;
+  border: solid 5px;
+  border-color: black;
+  margin-top: -394px;
+}
+
+.link-were {
+  padding-left: 1145px;
+  font-size: 25px;
+  margin-top: -60px;
+}

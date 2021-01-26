@@ -1,1 +1,2 @@
-# collins-project-original
+# collins-coding-screening-project
+# collins-coding-screening-project
